@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" alt="Grubhub Product Case Study Banner" width="100%" />
+</p>
 # Grubhub Platform Improvement — Product Case Study
 
 A UX/Product improvement project focused on solving real user pain points on the Grubhub platform, with practical solutions, persona creation, solution mapping, and mobile UI mockups.
