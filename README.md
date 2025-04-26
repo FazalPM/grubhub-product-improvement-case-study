@@ -54,9 +54,9 @@ Expected improvements in customer satisfaction, retention, and competitive edge.
 
 ## Impact Summary
 
-- ✅ Increased customer satisfaction
-- ✅ Faster reordering experience
-- ✅ Competitive advantage over other delivery apps
+- Increased customer satisfaction
+- Faster reordering experience
+- Competitive advantage over other delivery apps
 
 ---
 
