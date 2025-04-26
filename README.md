@@ -4,18 +4,18 @@ A UX/Product improvement project focused on solving real user pain points on the
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 Grubhub users face three main challenges:
-- 🚚 Delivery errors (wrong delivery locations)
-- 📱 Cluttered and overwhelming app interface
-- ⏱️ Lack of real-time, convenient order tracking
+-  Delivery errors (wrong delivery locations)
+-  Cluttered and overwhelming app interface
+-  Lack of real-time, convenient order tracking
 
 This project proposes simple, high-impact solutions to fix these problems.
 
 ---
 
-## 📌 Case Study Steps
+##  Case Study Steps
 
 ### Step 1: Problem Identification
 Identified delivery location issues, cluttered UI, and tracking gaps.  
@@ -52,7 +52,7 @@ Expected improvements in customer satisfaction, retention, and competitive edge.
 
 ---
 
-## 📈 Impact Summary
+## Impact Summary
 
 - ✅ Increased customer satisfaction
 - ✅ Faster reordering experience
@@ -60,20 +60,22 @@ Expected improvements in customer satisfaction, retention, and competitive edge.
 
 ---
 
-## 🙌 About Me
+## About Me
 
 Hi! I'm Fazal, a Product Manager passionate about solving user problems with elegant solutions.  
 Let's connect on [LinkedIn](https://www.linkedin.com/in/fazal-fazal-mba/)!
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
+- Figma (for mobile UI mockups)
+- Canva (for graphic design and visual assets)
+- GitHub (for project documentation and hosting)
+- User Reviews Analysis (for identifying real-world pain points)
+- Manual Research and Ideation (for solution mapping and persona building)
 
-- Figma (for mockups)
-- Canva (for visual design)
-- Manual Research + ChatGPT (for ideation and case study writing)
 
 ---
 
-## 📜 License
+## License
 This project is open-source under the MIT License.
