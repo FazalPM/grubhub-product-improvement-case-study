@@ -80,27 +80,3 @@ Let's connect on [LinkedIn](https://www.linkedin.com/in/fazal-fazal-mba/)!
 ## License
 This project is open-source under the MIT License.
 
-[User (Spotify App)]
-        ↓
-[SpotiAI Frontend (Web or Embedded UI)]
-        ↓
-[SpotiAI Backend Server]
-        ↓
- ┌───────────────────────────────────┐
- |  Spotify API (User Data Access)    |
- |  - Listening History               |
- |  - Top Tracks, Top Artists          |
- |  - Recently Played                  |
- └───────────────────────────────────┘
-        ↓
-[Data Processing Layer]
-        ↓
- ┌───────────────────────────────────┐
- |  AI/NLP Engine                     |
- |  (Summarize Podcast Episodes)      |
- └───────────────────────────────────┘
-        ↓
-[Response Engine (Chat Response Generator)]
-        ↓
-[User (Receives Chat Answers / Summaries)]
-
